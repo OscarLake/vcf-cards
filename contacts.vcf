@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Oscar Estany Bagué
+N:Estany Bagué;Oscar;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:tecnic1@coopivars.coop
+TEL;TYPE=WORK:+34 973 58 00 00
+TEL;TYPE=CELL:+34 646 62 71 14
+ADR;TYPE=WORK:;;C\\ Urgell 1-6\, Ivars d'Urgell\, Lleida;Ivars d'Urgell;Lle
+ ida;25260;ES;C\\ Urgell 1-6\, Ivars d'Urgell\, Lleida\n25260 Ivars d'Urgel
+ l\nLleida\nES
+item1.ORG:Cooperativa d'Ivars i Secció de Crèdit\, SCCL;Informàtica
+item1.X-ABLabel:
+item2.TITLE:Tècnic
+item2.X-ABLabel:
+URL;TYPE=WORK:https\://coopivars.coop
+PHOTO:https://lh3.googleusercontent.com/contacts/ANvYiofmBqrafNQRTz1kb-rgVv
+ NEyeSMs9iPtAGLyfVorhOjMcn-42Gl
+CATEGORIES:myContacts
+END:VCARD
